@@ -1,0 +1,116 @@
+﻿<Window x:Class="OpenScribe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OpenScribe"
+        mc:Ignorable="d"
+        Title="OpenScribe" Height="500" Width="900" Background="#f0f0f0">
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.5*" />
+            <ColumnDefinition Width="0.1*" />
+            <ColumnDefinition Width="1.5*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Left Panel -->
+        <StackPanel Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="White">
+            <TabControl>
+                <!-- Tab 1: File Processing -->
+                <TabItem Header="File Processing">
+                    <StackPanel Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="White">
+                        <TextBlock Text="Please Drop Audio Files Below:" FontSize="18" FontWeight="Bold" Foreground="#333333" Margin="0,0,0,10" />
+                        <!-- ListBox for dropping audio/video files -->
+                        <ListBox Name="FilesListBox"
+                                     AllowDrop="True"
+                                     Height="300"
+                                     FontSize="14"
+                                     Padding="10"
+                                     Background="#E8E8E8"
+                                     BorderThickness="1"
+                                     BorderBrush="#BBBBBB"
+                                     Drop="ListBox_Drop"
+                                     PreviewDragOver="ListBox_PreviewDragOver" />
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,15,0,0">
+                            <Button Name="ProcessButton"
+            Content="Process Files"
+            Width="150"
+            Height="40"
+            Margin="5,0,5,0"
+            Background="#007ACC"
+            Foreground="White"
+            FontSize="16"
+            FontWeight="Bold"
+            Click="ProcessButton_Click" />
+                            <Button Name="ClearAllButton"
+            Content="Clear All"
+            Width="150"
+            Height="40"
+            Margin="5,0,5,0"
+            Background="#007ACC"
+            Foreground="White"
+            FontSize="16"
+            FontWeight="Bold"
+            Click="ClearAllButton_Click" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+
+                <!-- Tab 3: Recorder with Timer -->
+                <TabItem Header="Recorder" Visibility="Hidden">
+                    <Grid Background="White">
+                        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                            <!-- Timer Display -->
+                            <TextBlock Name="TimerDisplay" 
+                                   Text="00:00:00" 
+                                   FontSize="24" 
+                                   FontWeight="Bold" 
+                                   Foreground="#333333" 
+                                   HorizontalAlignment="Center" 
+                                   Margin="0,0,0,20" />
+
+                            <!-- Buttons for Recorder -->
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+                                <Button Name="StartRecordingButton"
+                                    Content="Start Recording"
+                                      
+                                    Width="150"
+                                    Height="40"
+                                    Background="#28a745"
+                                    Foreground="White"
+                                    FontSize="16"
+                                    FontWeight="Bold"
+                                    Click="StartRecordingButton_Click" />
+
+                                <Button Name="StopRecordingButton"
+                                    Content="Stop Recording"
+                                    Width="150"
+                                    Height="40"
+                                    Background="#dc3545"
+                                    Foreground="White"
+                                    FontSize="16"
+                                    FontWeight="Bold"
+                                    Click="StopRecordingButton_Click" 
+                                    IsEnabled="False" />
+
+                                <!-- Output Box -->
+                                <TextBox
+                                     FontSize="14"
+                                     AcceptsReturn="True"
+                                     TextWrapping="Wrap"
+                                     BorderThickness="1"
+                                     BorderBrush="#BBBBBB"
+                                     Background="#F8F8F8"
+                                     VerticalScrollBarVisibility="Auto"
+                                     Height="300" />
+                            </StackPanel>
+                        </StackPanel>
+                    </Grid>
+                </TabItem>
+            </TabControl>
+        </StackPanel>
+
+        <!-- Right Panel -->
+    </Grid>
+</Window>	

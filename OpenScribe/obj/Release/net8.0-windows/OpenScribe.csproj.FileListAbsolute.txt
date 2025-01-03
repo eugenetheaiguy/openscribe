@@ -1,0 +1,78 @@
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\config.ini
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\OpenScribe.exe
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\OpenScribe.deps.json
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\OpenScribe.runtimeconfig.json
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\OpenScribe.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\OpenScribe.pdb
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\CSCore.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\NAudio.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\NAudio.Asio.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\NAudio.Core.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\NAudio.Midi.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\NAudio.WinForms.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\NAudio.WinMM.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\RestSharp.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe.csproj.AssemblyReference.cache
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\App.g.cs
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe_Content.g.cs
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe_MarkupCompile.cache
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe_MarkupCompile.lref
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe.g.resources
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe.AssemblyInfoInputs.cache
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe.AssemblyInfo.cs
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe.csproj.Up2Date
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\refint\OpenScribe.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe.pdb
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe.genruntimeconfig.cache
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\ref\OpenScribe.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\OpenScribe.dll.manifest
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\OpenScribe.application
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe.dll.manifest
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\obj\Release\net8.0-windows\OpenScribe.application
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\config.ini
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\OpenScribe.exe
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\OpenScribe.deps.json
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\OpenScribe.runtimeconfig.json
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\OpenScribe.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\OpenScribe.pdb
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\CSCore.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\INIFileParser.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\NAudio.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\NAudio.Asio.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\NAudio.Core.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\NAudio.Midi.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\NAudio.WinForms.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\NAudio.WinMM.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\RestSharp.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe.csproj.AssemblyReference.cache
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\App.g.cs
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe_Content.g.cs
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe_MarkupCompile.cache
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe_MarkupCompile.lref
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe.g.resources
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe.AssemblyInfoInputs.cache
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe.AssemblyInfo.cs
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe.csproj.Up2Date
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\refint\OpenScribe.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe.pdb
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe.genruntimeconfig.cache
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\ref\OpenScribe.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\Prompt.txt
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\OpenScribe.dll.manifest
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\bin\Release\net8.0-windows\OpenScribe.application
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe.dll.manifest
+C:\Users\eugen\source\repos\OpenScribe - Danny 2\OpenScribe\obj\Release\net8.0-windows\OpenScribe.application

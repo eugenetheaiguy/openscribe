@@ -1,0 +1,16 @@
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\OpenScribe.exe
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\config.ini
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\OpenScribe.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\OpenScribe.deps.json
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\OpenScribe.runtimeconfig.json
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\OpenScribe.pdb
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\CSCore.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\NAudio.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\NAudio.Asio.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\NAudio.Core.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\NAudio.Midi.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\NAudio.Wasapi.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\NAudio.WinForms.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\NAudio.WinMM.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\Newtonsoft.Json.dll
+C:\Users\eugen\source\repos\OpenScribe - Danny\OpenScribe\bin\Release\net8.0-windows\app.publish\RestSharp.dll

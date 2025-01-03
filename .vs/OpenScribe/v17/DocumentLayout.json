@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5292C-502C-4681-8CAB-78CCC6A34E27}|OpenScribe\\OpenScribe.csproj|c:\\users\\eugen\\source\\repos\\openscribe - danny 2\\openscribe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A5292C-502C-4681-8CAB-78CCC6A34E27}|OpenScribe\\OpenScribe.csproj|solutionrelative:openscribe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5292C-502C-4681-8CAB-78CCC6A34E27}|OpenScribe\\OpenScribe.csproj|c:\\users\\eugen\\source\\repos\\openscribe - danny 2\\openscribe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9A5292C-502C-4681-8CAB-78CCC6A34E27}|OpenScribe\\OpenScribe.csproj|solutionrelative:openscribe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5292C-502C-4681-8CAB-78CCC6A34E27}|OpenScribe\\OpenScribe.csproj|c:\\users\\eugen\\source\\repos\\openscribe - danny 2\\openscribe\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E9A5292C-502C-4681-8CAB-78CCC6A34E27}|OpenScribe\\OpenScribe.csproj|solutionrelative:openscribe\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5292C-502C-4681-8CAB-78CCC6A34E27}|OpenScribe\\OpenScribe.csproj|c:\\users\\eugen\\source\\repos\\openscribe - danny 2\\openscribe\\audioconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A5292C-502C-4681-8CAB-78CCC6A34E27}|OpenScribe\\OpenScribe.csproj|solutionrelative:openscribe\\audioconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5292C-502C-4681-8CAB-78CCC6A34E27}|OpenScribe\\OpenScribe.csproj|c:\\users\\eugen\\source\\repos\\openscribe - danny 2\\openscribe\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A5292C-502C-4681-8CAB-78CCC6A34E27}|OpenScribe\\OpenScribe.csproj|solutionrelative:openscribe\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5292C-502C-4681-8CAB-78CCC6A34E27}|OpenScribe\\OpenScribe.csproj|c:\\users\\eugen\\source\\repos\\openscribe - danny 2\\openscribe\\openscribe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9A5292C-502C-4681-8CAB-78CCC6A34E27}|OpenScribe\\OpenScribe.csproj|solutionrelative:openscribe\\openscribe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 367,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\OpenScribe\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OpenScribe\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\OpenScribe\\MainWindow.xaml",
+              "RelativeToolTip": "OpenScribe\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T16:51:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\OpenScribe\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OpenScribe\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\OpenScribe\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OpenScribe\\MainWindow.xaml.cs",
+              "ViewState": "AQIAANQFAAAAAAAAAAAqwOcFAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:47:29.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\OpenScribe\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "OpenScribe\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\OpenScribe\\AssemblyInfo.cs",
+              "RelativeToolTip": "OpenScribe\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:46:47.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpenScribe.csproj",
+              "DocumentMoniker": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\OpenScribe\\OpenScribe.csproj",
+              "RelativeDocumentMoniker": "OpenScribe\\OpenScribe.csproj",
+              "ToolTip": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\OpenScribe\\OpenScribe.csproj",
+              "RelativeToolTip": "OpenScribe\\OpenScribe.csproj",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T16:45:14.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioConverter.cs",
+              "DocumentMoniker": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\OpenScribe\\AudioConverter.cs",
+              "RelativeDocumentMoniker": "OpenScribe\\AudioConverter.cs",
+              "ToolTip": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\OpenScribe\\AudioConverter.cs",
+              "RelativeToolTip": "OpenScribe\\AudioConverter.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwBcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:45:54.632Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 33,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "config.ini",
+              "DocumentMoniker": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\OpenScribe\\config.ini",
+              "RelativeDocumentMoniker": "OpenScribe\\config.ini",
+              "ToolTip": "C:\\Users\\eugen\\source\\repos\\OpenScribe - Danny 2\\OpenScribe\\config.ini",
+              "RelativeToolTip": "OpenScribe\\config.ini",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2024-12-12T22:05:08.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
